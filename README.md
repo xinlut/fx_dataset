@@ -10,9 +10,11 @@ The dataset includes:
 * Time Range: 20 years of historical data.
 * Granularity: Data captured every 5 seconds.
 * Included Currencies:
-  *   USD/JPY,
-  *   USD/CNH.
-  *   will be further expandded to EUR/USD, GBP/USD, USD/CHF, USD/CAD, AUD/USD, NZD/USD ....
+  *   USD/JPY, (since 2005)
+  *   EUR/USD, (since 2005)
+  *   GBP/USD, (since 2005)
+  *   USD/CNH. (since 2011)
+  *   will be further expandded to USD/CHF, USD/CAD, AUD/USD, NZD/USD ....
 * Data Points: timestamp, Open, high, low, close prices, and volume for each interval.
 
 # Purpose
@@ -24,7 +26,7 @@ This dataset is tailored for those looking to:
 
 # How to Use This Dataset
 
-* Data Structure: the data is stored in csv file for seperate years.
+* Data Structure: the data is stored in csv file for seperate years. 
 * Example Use-Cases: simply unzip the files contains the trading history data, and start to label and train your autonomouse forex algorithms, using LSTM, transformer, time serious AI, timeGPT....
 * Notice: if there is no transaction in the 5 second time interval, there will be no record in the dataset. Therefore, checking the timestamp is not unformally spaced in light trading hours.
 * When you develop auto trading program, be aware of the none uniformly spaced time stamp！
