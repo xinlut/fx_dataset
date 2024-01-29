@@ -9,7 +9,10 @@ The dataset includes:
 
 * Time Range: 20 years of historical data.
 * Granularity: Data captured every 5 seconds.
-* Included Currencies: USD/JPY, USD/CHN.  It could be further expandded to EUR/USD, GBP/USD, USD/CHF. USD/CAD, AUD/USD, NZD/USD ....
+* Included Currencies:
+  *   USD/JPY,
+  *   USD/CHN.
+  *   will be further expandded to EUR/USD, GBP/USD, USD/CHF, USD/CAD, AUD/USD, NZD/USD ....
 * Data Points: timestamp, Open, high, low, close prices, and volume for each interval.
 
 # Purpose
@@ -34,7 +37,7 @@ Users should be aware of the risks involved in Forex trading.
 MIT
 
 # Contact Information
-For further inquiries or support, please contact xinlut007@gmial.com.
+For further inquiries or support, please contact xinlut007@gmail.com.
 
 # Donation
 A $5 donation will encorage me to maintain and upgrade to this repository up-to-date. Thank you for your support.
@@ -42,4 +45,4 @@ A $5 donation will encorage me to maintain and upgrade to this repository up-to-
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)(https://www.paypal.com/donate/?hosted_button_id=BBEQ6LQ4M736N)]
 
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](Your PayPal Donation Link)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BBEQ6LQ4M736N)
