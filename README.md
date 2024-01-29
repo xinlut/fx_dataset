@@ -11,7 +11,7 @@ The dataset includes:
 * Granularity: Data captured every 5 seconds.
 * Included Currencies:
   *   USD/JPY,
-  *   USD/CHN.
+  *   USD/CNH.
   *   will be further expandded to EUR/USD, GBP/USD, USD/CHF, USD/CAD, AUD/USD, NZD/USD ....
 * Data Points: timestamp, Open, high, low, close prices, and volume for each interval.
 
