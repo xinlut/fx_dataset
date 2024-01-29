@@ -26,7 +26,9 @@ This dataset is tailored for those looking to:
 
 * Data Structure: the data is stored in csv file for seperate years.
 * Example Use-Cases: simply unzip the files contains the trading history data, and start to label and train your autonomouse forex algorithms, using LSTM, transformer, time serious AI, timeGPT....
-
+* Notice: if there is no transaction in the 5 second time interval, there will be no record in the dataset. Therefore, checking the timestamp is not unformally spaced in light trading hours.
+* When you develop auto trading program, be aware of the none uniformly spaced time stamp！
+  
 # Disclaimer
 This dataset is provided for educational and research purposes only.
 Users should be aware of the risks involved in Forex trading.
