@@ -29,10 +29,14 @@ This dataset is provided for educational and research purposes only.
 Users should be aware of the risks involved in Forex trading.
 
 # Acknowledgments
-[If applicable, acknowledge any contributors, data sources, or organizations that supported the project]
 
 # License
 MIT
 
 # Contact Information
 For further inquiries or support, please contact xinlut007@gmial.com.
+
+# Donation
+A $5 donation will encorage me to maintain and upgrade to this repository up-to-date. Thank you for your support.
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](Your PayPal Donation Link)
+https://www.paypal.com/donate/?hosted_button_id=BBEQ6LQ4M736N
