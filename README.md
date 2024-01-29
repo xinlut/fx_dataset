@@ -24,8 +24,8 @@ This dataset is tailored for those looking to:
 
 # How to Use This Dataset
 
-Data Structure: the data is stored in csv file for seperate years.
-Example Use-Cases: simply unzip the files contains the trading history data, and start to label and train your autonomouse forex algorithms, using LSTM, transformer, time serious AI, timeGPT....
+* Data Structure: the data is stored in csv file for seperate years.
+* Example Use-Cases: simply unzip the files contains the trading history data, and start to label and train your autonomouse forex algorithms, using LSTM, transformer, time serious AI, timeGPT....
 
 # Disclaimer
 This dataset is provided for educational and research purposes only.
